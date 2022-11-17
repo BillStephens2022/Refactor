@@ -1,4 +1,4 @@
-# Boot Camp Prework Study Guide for Students
+# Module 1 Challenge - Code Refactor
 
 ## Description
 
